@@ -1,4 +1,4 @@
-# ⚽ World Cup Analysis — Além da Força das Seleções
+# ⚽ World Cup Analysis
  
 ---
  
@@ -20,6 +20,7 @@ Este projeto investiga se fatores contextuais e psicossociais adicionam poder ex
 - Ser o país sede ou jogar no mesmo continente da sede confere vantagem estatisticamente significativa?
 - Existe correlação entre a agressividade disciplinar de um time (cartões) e a probabilidade de avanço no torneio?
 - A maturidade do elenco, seja com jogadores mais novos ou mais velhos, mostra-se significante na probabilidade de vitória?
+
 **Fatores não tradicionais**
 - O intervalo de descanso entre jogos modifica a probabilidade de vitória?
 - Eventos de alta carga emocional no jogo anterior — como vitórias de virada ou nos pênaltis — afetam o desempenho no jogo seguinte?
